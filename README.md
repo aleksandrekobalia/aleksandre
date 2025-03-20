@@ -72,8 +72,8 @@
 ---
 
 ### 📌 Featured Projects  
-🚀 **[Project 1](#)** – Description of your top cybersecurity project.  
-🔧 **[Project 2](#)** – Another relevant project.  
+🚀 **[Project 1](#)** – 
+🔧 **[Project 2](#)** – 
 
 ---
 
@@ -86,4 +86,4 @@ Feel free to reach out if you want to discuss cybersecurity, ethical hacking, or
 
 ---
 
-This version makes your profile **cleaner, more professional, and visually engaging** with badges, better formatting, and a strong structure. Would you like any customizations or additions? 🚀
+
